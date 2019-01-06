@@ -2,8 +2,10 @@ body {
   background-color: powderblue;
 }
 h1 {
-  font-family: Tahoma;
   color: blue;
+}
+h1 {
+  font-family: Tahoma;
 }
 p {
   font-family: Geneva
