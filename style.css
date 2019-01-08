@@ -1,13 +1,13 @@
 body {
-  background-color: white;
+  background-color: #EEFAE8;
 }
 h1 {
-  color: powderblue;
+  color: #9CE2B9;
   font-family: Tahoma;
 }
 p {
-  color: black;
+  color: #00A3CD;
   font-family: Tahoma;
   border-style: solid;
-  border-color: #E8EDF2;
+  border-color: #C3EDC4;
 }
