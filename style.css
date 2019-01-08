@@ -2,10 +2,12 @@ body {
   background-color: powderblue;
 }
 h1 {
-  color: blue;
+  color: white;
   font-family: Tahoma
 }
 p {
   color: red;
   font-family: Tahoma
+  border-style: solid
+  border-color: #E8EDF2
 }
